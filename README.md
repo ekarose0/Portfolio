@@ -38,3 +38,7 @@
 
 ### < Thaumcraft 4 Translate>
 > 마인크래프트의 Thaumcraft4의 한국어 번역(에드온포함) 모드입니다
+
+# Youtube
+ [![Video Label](http://img.youtube.com/vi/6ebRzNvSmD4/0.jpg)](https://youtu.be/6ebRzNvSmD4)   
+더보기: #[링크](https://www.youtube.com/@E_Ka01)
