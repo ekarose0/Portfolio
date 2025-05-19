@@ -27,6 +27,14 @@
 > 모바일로 제작된 AR 네비게이션의 3인 프로젝트입니다 (기획2, 프로그래머1)
 
 ## Single Project
+
+## Game Modding
+### < Eldenring >
+> - Seamless Co-op 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/510, "파일 스크립트 내 기여자 기제")
+> - Tranksmogrify 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/3596, "페이지 기여자 기제")
+
 ### < Atelier Lyza2 PS Button mod >
 > 아틀리에 라이자2 게임의 UI 변경 모드입니다
 
+### < Thaumcraft 4 Translate>
+> 마인크래프트의 Thaumcraft4의 한국어 번역(에드온포함) 모드입니다
