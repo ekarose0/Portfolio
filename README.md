@@ -16,8 +16,13 @@
 # Project
 ## Team Project
 ### < Ordeal of Spire - Leader/Programmer(14)>
-> PC게임으로 제작된 로그라이트의 14인 팀 프로젝트 입니다 (기획2, 프로그래머1, 아트11)
+> PC게임으로 제작된 로그라이트의 14인 팀 프로젝트 입니다 (기획2, 프로그래머1, 아트11)   
+> https://github.com/user-attachments/assets/10861d47-1533-4e0e-a9c2-5423bb121a14   
 > 
+
+
+
+
 
 ### < Defense Card - Leader/Programmer(3)> 
 > PC게임으로 제작된 카드게임의 3인 팀 프로젝트입니다 (기획1, 프로그래머2)
