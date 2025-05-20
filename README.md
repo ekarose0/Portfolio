@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/68379acd-2334-4b69-bf66-6c5cb77ebc83
 - 서포트툴: Discord, Github, Photoshop
 - 설계한 시스템: 전투(공격, 피격, 콤보, 스킬) 및 이동, 디버프, 맵 및 몬스터 랜덤 생성, 보스 패턴, 라운드 전환, 체력 및 스테미너, 인터페이스(대화, 상태창) 등등
 - 에셋 및 리소스: 자체 제작</code></pre>
-**해당 작업의 자세한 내용은 해당 프로젝트 페이지에서 확인 가능합니다 #[링크](https://github.com/ekarose0/Ordeal-of-Spire_Portfolio)**   
+**해당 작업의 상세 작업 내용은 해당 프로젝트 페이지에서 확인 가능합니다 #[링크](https://github.com/ekarose0/Ordeal-of-Spire_Portfolio)**   
 > 해당 프로젝트는 총괄 팀장이자 단일 프로그래머로 초기 기획부터 보스제작까지 담당하였으며, Unity 2022.3.22f1로 제작하였습니다
 
 
@@ -52,10 +52,10 @@ https://github.com/user-attachments/assets/54825c2c-154e-4b06-9e95-ced1aaadd6de
 > - Tranksmogrify 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/3596, "페이지 기여자 기제")
 
 ### < Atelier Lyza2 PS Button mod >
-> 아틀리에 라이자2 게임의 UI 변경 모드입니다
+> 아틀리에 라이자2 게임의 UI 변경 모드입니다 #[링크](https://github.com/ekarose0/Atelier-Ryza2-PS4-Switch-Button-Replacement)
 
 ### < Thaumcraft 4 Translate >
-> 마인크래프트의 Thaumcraft4의 한국어 번역(에드온포함) 모드입니다
+> 마인크래프트의 Thaumcraft4의 한국어 번역(에드온포함) 모드입니다 #[링크](https://github.com/ekarose0/Thaumcraft4-TC4_Addon-Korean-Translate)
 
 # Youtube
  [![Video Label](http://img.youtube.com/vi/6ebRzNvSmD4/0.jpg)](https://youtu.be/6ebRzNvSmD4)   
