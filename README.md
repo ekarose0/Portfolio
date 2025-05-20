@@ -17,7 +17,9 @@
 ## Team Project
 ### < Ordeal of Spire - Leader/Programmer(14)>
 > PC게임으로 제작된 로그라이트의 14인 팀 프로젝트 입니다 (기획2, 프로그래머1, 아트11)   
-> https://github.com/user-attachments/assets/10861d47-1533-4e0e-a9c2-5423bb121a14   
+> https://github.com/user-attachments/assets/55fdf826-ffe4-4b58-aa6e-8178e95312a9   
+
+
 > 
 
 
