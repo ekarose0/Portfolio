@@ -11,6 +11,7 @@
 - JavaScript</code></pre>
 > Support tool
 <pre><code>- Slack, Discord
+- notion
 - Github</code></pre>
 
 # Project
