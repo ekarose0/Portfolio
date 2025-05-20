@@ -15,18 +15,25 @@
 
 # Project
 ## Team Project
-### < Ordeal of Spire - Leader/Programmer(14)>
-> PC게임으로 제작된 로그라이트의 14인 팀 프로젝트 입니다 (기획2, 프로그래머1, 아트11)   
-https://github.com/user-attachments/assets/55fdf826-ffe4-4b58-aa6e-8178e95312a9   
+### < Ordeal of Spire - Leader/Programmer(14) >
+> **2025 PlayX4**에 참여한 PC게임으로 제작된 로그라이트의 14인 팀 프로젝트 입니다 (기획2, 프로그래머1, 아트11)   
+
+https://github.com/user-attachments/assets/68379acd-2334-4b69-bf66-6c5cb77ebc83
+
+<pre><code>- 개발기간: 2024.1 ~ 2025.5 (1년 4개월)
+- 사용엔진: Unity 2022.3.22f1 LTS (Dev), Spine 4.2 (Ani)
+- 서포트툴: Discord, Github, Photoshop
+- 설계한 시스템: 전투(공격, 피격, 콤보, 스킬) 및 이동, 디버프, 맵 및 몬스터 랜덤 생성, 보스 패턴, 라운드 전환, 체력 및 스테미너, 인터페이스(대화, 상태창) 등등
+- 에셋 및 리소스: 자체 제작</code></pre>
+**해당 작업의 자세한 내용은 해당 프로젝트 페이지에서 확인 가능합니다**   
+> 해당 프로젝트는 총괄 팀장이자 단일 프로그래머로 초기 기획부터 보스제작까지 담당하였으며, Unity 2022.3.22f1로 제작하였습니다
 
 
-> 
 
 
 
 
-
-### < Defense Card - Leader/Programmer(3)> 
+### < Defense Card - Leader/Programmer(3) > 
 > PC게임으로 제작된 카드게임의 3인 팀 프로젝트입니다 (기획1, 프로그래머2)
 > 
 
@@ -43,7 +50,7 @@ https://github.com/user-attachments/assets/55fdf826-ffe4-4b58-aa6e-8178e95312a9
 ### < Atelier Lyza2 PS Button mod >
 > 아틀리에 라이자2 게임의 UI 변경 모드입니다
 
-### < Thaumcraft 4 Translate>
+### < Thaumcraft 4 Translate >
 > 마인크래프트의 Thaumcraft4의 한국어 번역(에드온포함) 모드입니다
 
 # Youtube
