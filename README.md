@@ -5,13 +5,13 @@
 
 # Skill
 > Engine
-<pre><code>- Unity 2018 ~ 6</code></pre>
+<pre><code>- Unity 2018 ~ Unity 6</code></pre>
 > Programming Language
 <pre><code>- C#
 - JavaScript</code></pre>
 > Support tool
 <pre><code>- Slack, Discord
-- notion
+- Notion
 - Github</code></pre>
 
 # Project
