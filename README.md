@@ -20,7 +20,7 @@
 
 https://github.com/user-attachments/assets/68379acd-2334-4b69-bf66-6c5cb77ebc83
 
-<pre><code>- 개발기간: 2024.1 ~ 2025.5 (1년 4개월)
+<pre><code>- 개발기간: 2024.1 ~ 2025.5 (1년 5개월)
 - 사용엔진: Unity 2022.3.22f1 LTS (Dev), Spine 4.2 (Ani)
 - 서포트툴: Discord, Github, Photoshop
 - 설계한 시스템: 전투(공격, 피격, 콤보, 스킬) 및 이동, 디버프, 맵 및 몬스터 랜덤 생성, 보스 패턴, 라운드 전환, 체력 및 스테미너, 인터페이스(대화, 상태창) 등등
@@ -29,13 +29,17 @@ https://github.com/user-attachments/assets/68379acd-2334-4b69-bf66-6c5cb77ebc83
 > 해당 프로젝트는 총괄 팀장이자 단일 프로그래머로 초기 기획부터 보스제작까지 담당하였으며, Unity 2022.3.22f1로 제작하였습니다
 
 
-
-
-
-
 ### < Defense Card - Leader/Programmer(3) > 
 > PC게임으로 제작된 카드게임의 3인 팀 프로젝트입니다 (기획1, 프로그래머2)
-> 
+
+https://github.com/user-attachments/assets/54825c2c-154e-4b06-9e95-ced1aaadd6de   
+
+<pre><code>- 개발기간: 2024.9 ~ 2024.12 (4개월)
+- 사용엔진: Unity 6000.0.25f1 LTS (Dev)
+- 서포트툴: Discord, Github, notion
+- 설계한 시스템: DB관리, 카드 족보, 변경 연출, UI
+- 목표: 프로그래머끼리의 협동 </code></pre>
+> 해당 프로젝트는 팀장으로 기획을 통해 나온 내역을 다른 프로그래머와 협업하는데 중점을 맞추었으며, 유니티6를 사용하는데 의의를 두었습니다. 
 
 ### < KMU_Leaving Lab - Programmer(3) >
 > 모바일로 제작된 AR 네비게이션의 3인 프로젝트입니다 (기획2, 프로그래머1)
