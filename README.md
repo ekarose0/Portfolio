@@ -55,6 +55,9 @@ https://github.com/user-attachments/assets/54825c2c-154e-4b06-9e95-ced1aaadd6de
 ### < Atelier Lyza2 PS Button mod >
 > 아틀리에 라이자2 게임의 UI 변경 모드입니다 #[링크](https://github.com/ekarose0/Atelier-Ryza2-PS4-Switch-Button-Replacement)
 
+### <Marisa! ReturnTheBook KR Trans>
+> 마리사! 책 돌려줘! 게임의 한글 번역패치입니다 #[링크](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR)
+
 ### < Thaumcraft 4 Translate >
 > 마인크래프트의 Thaumcraft4의 한국어 번역(에드온포함) 모드입니다 #[링크](https://github.com/ekarose0/Thaumcraft4-TC4_Addon-Korean-Translate)
 
