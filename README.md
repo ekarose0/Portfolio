@@ -8,6 +8,7 @@
 <pre><code>- Unity 2018 ~ Unity 6</code></pre>
 > Programming Language
 <pre><code>- C#
+- c++
 - JavaScript</code></pre>
 > Support tool
 <pre><code>- Slack, Discord
