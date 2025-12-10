@@ -54,6 +54,7 @@ https://github.com/user-attachments/assets/54825c2c-154e-4b06-9e95-ced1aaadd6de
 
 ### < Eldenring >
 > NEXUS Seamless Co-op 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/510, "파일 스크립트 내 기여자 기제")
+
 > NEXUS Tranksmogrify 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/3596, "페이지 기여자 기제")
 
 ### < Atelier Lyza2 PS Button mod >
