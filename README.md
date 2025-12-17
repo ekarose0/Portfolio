@@ -1,6 +1,6 @@
 # Intro
 > Unity 게임 개발자를 지향하는 프로그래머 구태용입니다   
-> 게임 제작 팀프로젝트의 팀장 경험을 통해 역할군마다의 작업을 이해하며   
+> 게임 제작 팀프로젝트의 팀장 경험을 통해 디자인 작업의 시간 조율 및 기획자와의 조율등 각 직책 마다의 작업을 이해하며   
 > 프로젝트 개발을 통해 만족할만한 최선의 결과를 내는데 노력하고 있습니다   
 
 # Skill
@@ -15,9 +15,17 @@
 - Notion
 - Github</code></pre>
 
+# Awards & Activities
+|수상&활동명|내용|기관명|
+|------|---|---|
+|경기 콘텐츠 진흥원장상(대상)|경기 메타버스 해커톤 개발 팀장|경기 콘텐츠 진흥원|
+|경기 지역발전 리빙랩 수상(은상)|경기도 지역발전 리빙랩 공모전 프로그램 팀장|경민대학|
+|PlayX4 B2B|Ordeal of Spire게임 제작 및 프리플레이|---|
+
+
 # Project
 ## Team Project
-### < Ordeal of Spire - Leader/Programmer(14) >
+### 1. < Ordeal of Spire - Leader/Programmer(14) >
 > **2025 PlayX4**에 참여한 PC게임으로 제작된 로그라이트의 14인 팀 프로젝트 입니다 (기획2, 프로그래머1, 아트11)   
 
 https://github.com/user-attachments/assets/68379acd-2334-4b69-bf66-6c5cb77ebc83
@@ -31,7 +39,7 @@ https://github.com/user-attachments/assets/68379acd-2334-4b69-bf66-6c5cb77ebc83
 > 위 프로젝트는 총괄 팀장이자 단일 프로그래머로 초기 기획부터 보스제작까지 담당하였으며, Unity 2022.3.22f1로 제작하였습니다
 
 
-### < Defense Card - Leader/Programmer(3) > 
+### 2. < Defense Card - Leader/Programmer(3) > 
 > PC게임으로 제작된 카드게임의 3인 팀 프로젝트입니다 (기획1, 프로그래머2)
 
 https://github.com/user-attachments/assets/54825c2c-154e-4b06-9e95-ced1aaadd6de   
@@ -43,25 +51,25 @@ https://github.com/user-attachments/assets/54825c2c-154e-4b06-9e95-ced1aaadd6de
 - 목표: 프로그래머끼리의 협동 </code></pre>
 > 해당 프로젝트는 팀장으로 기획을 통해 나온 내역을 다른 프로그래머와 협업하는데 중점을 맞추었으며, 유니티6를 사용하는데 의의를 두었습니다. 
 
-### < KMU_Leaving Lab - Programmer(3) >
+### 3. < KMU_Leaving Lab - Programmer(3) >
 > 모바일로 제작된 AR 네비게이션의 3인 프로젝트입니다 (기획2, 프로그래머1)
 
 ## Single Project
 
 ## Game Modding
 
-### <Marisa! ReturnTheBook KR Trans>
+### 1. <Marisa! ReturnTheBook KR Trans>
 > 마리사! 책 돌려줘! 게임의 Harmony 기반 한글 모드입니다 #[링크](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR)
 
-### < Eldenring >
+### 2. < Eldenring >
 > NEXUS Seamless Co-op 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/510, "파일 스크립트 내 기여자 기제")
 
 > NEXUS Tranksmogrify 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/3596, "페이지 기여자 기제")
 
-### < Atelier Lyza2 PS Button mod >
+### 3. < Atelier Lyza2 PS Button mod >
 > 아틀리에 라이자2 게임의 UI 변경 모드입니다 #[링크](https://github.com/ekarose0/Atelier-Ryza2-PS4-Switch-Button-Replacement)
 
-### < Thaumcraft 4 Translate >
+### 4. < Thaumcraft 4 Translate >
 > 마인크래프트의 Thaumcraft4의 한국어 번역(에드온포함) 모드입니다 #[링크](https://github.com/ekarose0/Thaumcraft4-TC4_Addon-Korean-Translate)
 
 
