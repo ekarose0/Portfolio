@@ -62,9 +62,9 @@ https://github.com/user-attachments/assets/54825c2c-154e-4b06-9e95-ced1aaadd6de
 > 마리사! 책 돌려줘! 게임의 Harmony 기반 한글 모드입니다 #[링크](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR)
 
 ### 2. < Eldenring >
-> NEXUS Seamless Co-op 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/510, "파일 스크립트 내 기여자 기제")
+> NEXUS Seamless Co-op 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/510 "파일 스크립트 내 기여자 기제")
 
-> NEXUS Tranksmogrify 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/3596, "페이지 기여자 기제")
+> NEXUS Tranksmogrify 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/3596 "페이지 기여자 기제")
 
 ### 3. < Atelier Lyza2 PS Button mod >
 > 아틀리에 라이자2 게임의 UI 변경 모드입니다 #[링크](https://github.com/ekarose0/Atelier-Ryza2-PS4-Switch-Button-Replacement)
