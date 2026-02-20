@@ -94,7 +94,10 @@ https://github.com/user-attachments/assets/54825c2c-154e-4b06-9e95-ced1aaadd6de
 > 마리사! 책 돌려줘! 게임의 Harmony 기반 한글 모드입니다 #[링크](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR)
 
 ### 2. < Eldenring >
-> NEXUS Seamless Co-op 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/510 "파일 스크립트 내 기여자 기제")
+> NEXUS Seamless Co-op 한국어 담당 (EKa001) #[링크 1.9.3 이전](https://www.nexusmods.com/eldenring/mods/510 "1.9
+2 이전버전 파일 스크립트 내 기여자 기제")
+#[링크 1.9.3 이후](https://www.nexusmods.com/eldenring/mods/9372)
+
 
 > NEXUS Tranksmogrify 한국어 담당 (EKa001) #[링크](https://www.nexusmods.com/eldenring/mods/3596 "페이지 기여자 기제")
 
